@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cihat Süngü</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<img src="https://picsum.photos/200" />
+<img src="https://assets3.lottiefiles.com/packages/lf20_47dwpmff.json" />
 
 - 💬 Ask me about *HTML, CSS, JS, React, Bootstrap*
 
