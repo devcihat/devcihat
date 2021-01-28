@@ -1,10 +1,12 @@
 h1 align="center">Hi 👋, I'm Cihat Süngü</h1>
-<h3 align="center">=>Frontend Developer<=</h3>
+<h3 align="center">Frontend Developer</h3>
 
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,REACT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/cihat-s%C3%BCng%C3%BC-9b78901a5/**
+
+<img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=800x600" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
