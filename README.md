@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/cihatsunguu/**
 
-<img align="center" src="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=800x600" />
+<img align="right" src="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=600x400" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
