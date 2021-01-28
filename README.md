@@ -5,7 +5,7 @@
 
 
 
-img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=800x600">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
